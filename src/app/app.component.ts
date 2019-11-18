@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'ngrx-counter';
+  title = 'Counter App with @ngrx/store';
 }
